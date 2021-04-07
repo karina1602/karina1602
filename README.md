@@ -13,7 +13,12 @@
 Me chamo <b> Carina Oliveira</b>.
 </p>
 <p align="left" >
-Atualmente moro em Carapicuiba /SP-BR.<br />
+Aluna Front-End estudante em [ Laboratoria ] (https://www.laboratoria.la/br) <br>
+Brasileiro radicado em São Paulo <br>
+Gosto de  viajar e conhecer novas culturas <br>
+Falo portugues, estudo Inglês e Árabe <br>
+  
+  Atualmente moro em Carapicuiba /SP-BR.<br />
 E estou me capacitando pela @b7 para me tornar uma <b>Desenvolvedora Full-Stack </b>.
 </p>
 <a href="" target="_blank">
